@@ -6,17 +6,17 @@ let wk = Config.WORKTYPE == 'public' ? false : true
 faz.addCommand({pattern: 'group ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
 
       const rows = [
-        { title: "OWNER \n\n ᴄʀᴇᴀᴛᴇʀ : ꜰᴀꜱᴡᴇᴇʜ ", rowId:"" },
-        { title: "OWNER NUMBER \n\n wa.me/917025099161 \n\n wa.me/917025099154", rowId:"" },
+        { title: "OWNER \n\n ᴄʀᴇᴀᴛᴇʀ : ꜱʀᴇᴇᴊᴜ ", rowId:"" },
+        { title: "OWNER NUMBER \n\n wa.me/918547062392\n\n wa.me/918547062392", rowId:"" },
         { title: "WA GROUP \n\n https://chat.whatsapp.com/FOutIblZOj388UVIYfefcR \n\n support group: https://chat.whatsapp.com/LUwHqs8eQIp2ys13Jz0Hbx", rowId:"" },
-        { title: "GIT-LINK \n\n https://github.com/inrlwabot", rowId:"" },
+        { title: "GIT-LINK \n\n https://github.com/ponuzzz", rowId:"" },
       ]
 
-      const sections = [{ title: "🎈inrlbot🎈", rows: rows }]
+      const sections = [{ title: "🎈rebelsir🎈", rows: rows }]
 
       const listButton = {
         buttonText: "G R O U P",
-        description: "IN RL W A BOT GROUP \n CANT USE VIERUS INTHIS GROUP",
+        description: "REBEL SIRGROUP \n CANT USE VIERUS INTHIS GROUP",
         sections: sections,
         listType: 1,
       }
