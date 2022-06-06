@@ -79,7 +79,7 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart inrlbot",
+            "RESTART_DESC": "Restart rebelsir",
             "RESTART_MSG": "```Restarting...```",
             "SHUTDOWN_DESC": "Shutdown Bot",
             "SHUTDOWN_MSG": "```Appo Seri Tata📴```",
@@ -153,7 +153,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! inrlbot ini varathilla 🥲```",
+            "KICKME": "```Bye bye! rebelsir ini varathilla 🥲```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -280,7 +280,7 @@
             "APK_MOD": "It sends some special mod apks",
             "CARBON_DESC": "It sends carbon picture",
             "TEMP": "Temperature",
-            "BOT_DESC": "Chat with inrlbot.\n Use .molu <message>",
+            "BOT_DESC": "Chat with rebelsir.\n Use .molu <message>",
             "BOT": ":",
             "DEVICE": "It shows the details of device",
             "DESC": "Description",
@@ -303,14 +303,14 @@
             "URL": "Shorten the long link."
         },
         "conventer": {
-            "MP4TOAUDİO_DESC": "inrlbot Converts video to sound.",
+            "MP4TOAUDİO_DESC": "rebelsir Converts video to sound.",
             "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Video!*",
-            "MP4TOAUDİO": "```Iηґℓ в๏ҭ Cσɳʋҽɾƚιɳɠ Vιԃҽσ ƚσ Aυԃισ..```",
+            "MP4TOAUDİO": "```ʀᴇʙᴇʟ Cσɳʋҽɾƚιɳɠ Vιԃҽσ ƚσ Aυԃισ..```",
             "ANİM_STİCK": "Converts animated stickers to video.",
-            "ANİMATE": "```inrlbot Converting Animated Sticker To Video..```",
+            "ANİMATE": "```rebelsir Converting Animated Sticker To Video..```",
             "STİCKER_DESC": "Converts the sticker to a photo.",
             "STİCKER_NEEDREPLY": "*You Must Reply to a sticker!*",
-            "STİCKER": "```ɪɴʀʟʙᴏᴛ ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴛʜᴇ sᴛɪᴄᴋᴇʀ ᴛᴏ ᴀ ᴘʜᴏᴛᴏ..```",
+            "STİCKER": "```ʀᴇʙᴇʟꜱɪʀ ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴛʜᴇ sᴛɪᴄᴋᴇʀ ᴛᴏ ᴀ ᴘʜᴏᴛᴏ..```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
@@ -399,9 +399,9 @@
             "MUTE_OPEN": "```The group chat has unmuted!```"
         },
         "unvoice": {
-            "UV_DESC": "inrlbot Converts audio to sound recording.",
+            "UV_DESC": "rebelsir Converts audio to sound recording.",
             "UV_REPLY": "*You Must Reply to the Audio File!*",
-            "UV_PROC": "```inrlbot Converting to Sound Recording..```"
+            "UV_PROC": "```rebelsir Converting to Sound Recording..```"
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
@@ -414,7 +414,7 @@
             "STOP_SPAM": "✅ *Spam successfully stopped! Please wait a moment.*",
             "ST_DESC": "Convert the replied photo or video to sticker and send it as spam.",
             "ST_ST": "```Please Don't Reply to Stciker!```\n```Only Reply to Video or Photo!```",
-            "ST_NEED": "```You Must Reply To Any Video Or Photo! inrlbot🥲```",
+            "ST_NEED": "```You Must Reply To Any Video Or Photo! rebelsir🥲```",
             "AU_DESC": "Sends the replied audio as spam.",
             "AU_REP": "```Please Only Reply To Audio File! inrl🥲```",
             "FOTO_DESC": "Sends the replied photo as spam.",
@@ -538,3 +538,4 @@
         }
     }
 }
+    
