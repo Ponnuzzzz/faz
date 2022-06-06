@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/inrlwabot">soldear</a> to make it
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@soldearFqz/Inrl-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/inrlwabot/faz)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rebelser/sree)
      </div>
 
   ### If there is an error deploying, try the following steps
@@ -44,7 +44,7 @@ Project created by <a href="https://github.com/inrlwabot">soldear</a> to make it
   click to fork the git into your account
  Click [FORK](https://github.com/inrlwabot/faz/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/inrlwabot/faz copy this url and change inrlwabot with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/rebelserbot/faz copy this url and change inrlwabot with your github username and click go<br>
 
 ---
 
