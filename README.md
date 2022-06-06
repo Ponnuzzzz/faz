@@ -11,11 +11,11 @@
 <a href="#"><img title="Inrl" src="https://img.shields.io/badge/Inrl-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/soldear-faz"><img title="Author" src="https://i.imgur.com/DyLAuEh.jpg/Author-soldear-fazzz-0/Inrl?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/soulrebel-faz"><img title="Author" src="https://i.imgur.com/DyLAuEh.jpg/Author-soulrebel-sree-0/Inrl?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/inrlwabot">soldear</a> to make it public
+Project created by <a href="https://github.com/soulwabot">soulrebel</a> to make it public
     <br>
        | © |
         Reserved |
