@@ -9,15 +9,15 @@ faz.addCommand({pattern: 'bot ?(.*)', fromMe: wk, dontAddCommandList: true}, (as
         { title: ".list", rowId:"" },
         { title: ".owner", rowId:"" },
         { title: ".git", rowId:"" },
-        { title: "inrl", rowId:"" },
-        { title: "fasweeh", rowId:"" },
+        { title: "rebelsir", rowId:"" },
+        { title: "sreeju", rowId:"" },
       ]
 
-      const sections = [{ title: "🎈inrlbot🎈", rows: rows }]
+      const sections = [{ title: "🎈rebel sir🎈", rows: rows }]
 
       const listButton = {
         buttonText: "SELECT",
-        description: "command's for inrl wa bot.\nmention cheyyathe type chyyuka",
+        description: "command's for rebelsir wa bot.\nmention cheyyathe type chyyuka",
         sections: sections,
         listType: 1,
       }
