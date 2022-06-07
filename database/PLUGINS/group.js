@@ -16,7 +16,7 @@ faz.addCommand({pattern: 'group ?(.*)', fromMe: wk, dontAddCommandList: true}, (
 
       const listButton = {
         buttonText: "G R O U P",
-        description: "REBEL SIRGROUP \n CANT USE VIERUS INTHIS GROUP",
+        description: "REBEL SIR GROUP \n CANT USE VIERUS INTHIS GROUP",
         sections: sections,
         listType: 1,
       }
