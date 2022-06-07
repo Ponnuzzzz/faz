@@ -36,7 +36,7 @@ Project created by <a href="https://github.com/soulwabot">soulrebel</a> to make 
   
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@soldearFqz/Inrl-QR)
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@soldearFqz/Rebel-QR)
  
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
@@ -59,12 +59,12 @@ Project created by <a href="https://github.com/soulwabot">soulrebel</a> to make 
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://imgur.com/AelfUJ.jpg)](https://chat.whatsapp.com/BsR6V1ltRUdK5zV5azILU5)
+  [![join](https://imgur.com/AelfUJ.jpg)](https://chat.whatsapp.com/K4ZOiLndkRD68AdYkE60ja)
   <div align="center">
    Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [!click👉 https://instagram.com/mhd_soldear)
+  [!click👉 https://instagram.com/soul.____.rebel)
   <div align="center">    
  
  </div>
