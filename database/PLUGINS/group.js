@@ -8,7 +8,7 @@ faz.addCommand({pattern: 'group ?(.*)', fromMe: wk, dontAddCommandList: true}, (
       const rows = [
         { title: "OWNER \n\n ᴄʀᴇᴀᴛᴇʀ : ꜱʀᴇᴇᴊᴜ ", rowId:"" },
         { title: "OWNER NUMBER \n\n wa.me/918547062392\n\n wa.me/918547062392", rowId:"" },
-        { title: "WA GROUP \n\n https://chat.whatsapp.com/FOutIblZOj388UVIYfefcR \n\n support group: https://chat.whatsapp.com/LUwHqs8eQIp2ys13Jz0Hbx", rowId:"" },
+        { title: "WA GROUP \n\n https://chat.whatsapp.com/FOutIblZOj388UVIYfefcR \n\n support group: https://chat.whatsapp.com/K4ZOiLndkRD68AdYkE60ja", rowId:"" },
         { title: "GIT-LINK \n\n https://github.com/ponuzzz", rowId:"" },
       ]
 
