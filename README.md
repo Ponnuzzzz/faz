@@ -1,7 +1,7 @@
 
    <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+SOLIDER+WA+BOT+REPO.;CREATED+BY+UNKNOWN+KT;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+REBELSER+WA+BOT+REPO.;CREATED+BY+ZROKIN+YT;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
 
  </a>
 </p>
